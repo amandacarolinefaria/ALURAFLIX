@@ -3,8 +3,10 @@ body{
     color: blanchedalmond;
 }
 
-section {
-    background: rgb(245, 202, 152);
-    padding-bottom: 80px;
-            padding-top: 80px;
-    }
+section{
+    background: darkolivegreen ;
+    padding-top: 60px ;
+    padding-bottom: 60px;
+    display: flex; /* torna flexivel = poe um do lado do outro */
+    justify-content: center;
+}
