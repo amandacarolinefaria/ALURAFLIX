@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(175, 131, 78);
+    background-color: rgb(78, 175, 91);
     color: blanchedalmond;
 }
 
 section{
-    background: rgb(224, 192, 133) ;
+    background: rgb(20, 97, 52) ;
     padding-top: 60px ;
     padding-bottom: 60px;
     display: flex; /* torna flexivel = poe um do lado do outro */
